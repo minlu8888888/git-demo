@@ -12,5 +12,5 @@ Hello lumin!!! Hello Git!
 Hello lumin!!! Hello Git!
 Hello lumin!!! Hello Git!
 Hello lumin!!! Hello Git!
-Hello lumin!!! Hello Git!
+Hello lumin!!! Hello Git!  master test
 Hello lumin!!! Hello Git!
